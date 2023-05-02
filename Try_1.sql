@@ -1,0 +1,1 @@
+select *from costumer order by id_nasabah asc
